@@ -1,0 +1,1 @@
+start dotnet SentinelStandaloneServer.dll 1337 Pa55w0rd

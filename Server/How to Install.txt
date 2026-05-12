@@ -1,0 +1,14 @@
+Linux:
+	sudo apt-get install -y dotnet-runtime-8.0
+	Drop the "Server" folder containing required files
+	cd Server
+	chmod +x StartLinux.sh
+	./StartLinux.sh
+	To edit the port and password edit the contents inside StartLinux.sh
+
+Windows:
+	https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.416-windows-x64-installer
+	Drop the "Server" folder containing required files.
+	cd Server
+	StartWindows.bat
+	To edit the port and password edit the contents inside StartWindows.bat
