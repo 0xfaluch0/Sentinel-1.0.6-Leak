@@ -4,7 +4,7 @@
 
 ##  Overview
 This repository contains the extracted server and builder components of a .NET-based Remote Access Trojan (RAT) dubbed **"Sentinel"**. 
-In this video is explained how is was "Taken" -> [to be uploaded] and is being shared to help the cybersecurity community analyze its capabilities.
+In this video is explained how is was "Taken" -> https://www.youtube.com/watch?v=O3fvHB2rSU4 and is being shared to help the cybersecurity community analyze its capabilities.
 
 Based on the directory structure, this is NOT the client payload, but the **Attacker's Control Panel and Payload Builder**.
 
